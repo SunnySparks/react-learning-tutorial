@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.elementsCont{
+  margin-top: 3em;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
