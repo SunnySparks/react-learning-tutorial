@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  margin-bottom: 3em;
+}
+
+.elementsCont, .main{
+  margin-top: 5em !important;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
